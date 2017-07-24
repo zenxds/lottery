@@ -1,0 +1,1 @@
+export const helloMsg = '/api/hello.json'
